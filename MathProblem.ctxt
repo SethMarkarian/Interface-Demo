@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=MathProblem
+comment0.text=\n\ Interface\ for\ math\ problems.\n\ \n\ Demo\ to\ show\ how\ interface\ syntax\ works\n
+comment1.params=ans
+comment1.target=boolean\ checkAnswer(int)
+numComments=2

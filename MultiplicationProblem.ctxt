@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=MultiplicationProblem
+comment0.text=\n\ Describes\ a\ multiplication\ problem.\n
+comment1.params=x\ y
+comment1.target=MultiplicationProblem(int,\ int)
+comment2.params=ans
+comment2.target=boolean\ checkAnswer(int)
+comment2.text=\n\ This\ method\ required\ to\ implement\ MathProblem\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4
